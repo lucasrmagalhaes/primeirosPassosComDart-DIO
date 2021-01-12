@@ -24,63 +24,11 @@
   <a href="https://github.com/lucasrmagalhaes/primeirosPassosComDart-DIO/blob/master/dart/stringIntEDouble.dart">String, int e double</a>
 </h5>
 
-```
-void main() {
-  
-  // Criando um produto.
-  String produto = "Arroz";
-  
-  // Quantidade de sacos de arroz.
-  int quantidade = 20;
-  
-  // Preço do arroz.
-  double preco = 10.99;
-  
-  print(produto);
-  print(quantidade);
-  print(preco);
-  
-}
-```
-
 <hr />
 
-<h5 align="left">Bool e concatenação</h5>
-
-<pre>
-void main() {
-  
-  // Criando um produto.
-  String produto = "Arroz";
-  print(produto);
-  
-  // Quantidade de sacos de arroz.
-  int quantidade = 20;
-  
-  // Preço do arroz.
-  double preco = 10.99;
-  
-  print(produto);
-  print(quantidade);
-  print(preco);
-  
-  bool entrega = true;
-  
-  produto = "Arroz Branco";
-  print("O $produto está $preco");
-  
-}
-</pre>
-
-<pre>
-Console
-
-Arroz
-Arroz
-20
-10.99
-O Arroz Branco está 10.99
-</pre>
+<h5 align="left">
+  <a href="https://github.com/lucasrmagalhaes/primeirosPassosComDart-DIO/blob/master/dart/boolEConcatenacao.dart">Bool e concatenação</a>
+</h5>
 
 <hr />
 

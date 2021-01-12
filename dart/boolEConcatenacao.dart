@@ -20,3 +20,13 @@ void main() {
   print("O $produto está $preco");
   
 }
+
+/**
+ * Console
+ *
+ * Arroz
+ * Arroz
+ * 20
+ * 10.99
+ * O Arroz Branco está 10.99
+ */
