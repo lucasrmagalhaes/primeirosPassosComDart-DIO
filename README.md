@@ -6,9 +6,9 @@
 
 <h5 align="left">Introdução ao Dart</h5>
 
-<ul>
-  <li><a href="https://dartpad.dev/?">DartPad</a></li>
-</ul>
+<p align="left">
+  <a href="https://dartpad.dev/?">DartPad</a></li>
+</p>
 
 <hr />
 
