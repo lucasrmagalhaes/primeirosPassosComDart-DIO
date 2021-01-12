@@ -12,14 +12,9 @@
 
 <hr />
 
-<h5 align="left">Primeiros códigos na main</h5>
-
-```
-void main() {
-  print("ola");
-  print("mundo");
-}
-```
+<h5 align="left">
+  <a href="https://github.com/lucasrmagalhaes/primeirosPassosComDart-DIO/blob/master/dart/primeiroCodigo.dart">primeiroCodigo.dart</a>
+</h5>
 
 <hr />
 
