@@ -13,14 +13,16 @@
 <hr />
 
 <h5 align="left">
-  <a href="https://github.com/lucasrmagalhaes/primeirosPassosComDart-DIO/blob/master/dart/primeiroCodigo.dart">primeiroCodigo.dart</a>
+  <a href="https://github.com/lucasrmagalhaes/primeirosPassosComDart-DIO/blob/master/dart/primeiroCodigo.dart">Primeiro Código</a>
 </h5>
 
 <hr />
 
 <h3 align="center">Trabalhando com Variáveis</h3>
 
-<h5 align="left">String, int e double</h5>
+<h5 align="left">
+  <a href="https://github.com/lucasrmagalhaes/primeirosPassosComDart-DIO/blob/master/dart/stringIntEDouble.dart">String, int e double</a>
+</h5>
 
 ```
 void main() {
